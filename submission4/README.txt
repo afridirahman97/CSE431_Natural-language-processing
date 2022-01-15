@@ -8,7 +8,7 @@ Paper title:
 Comparative Analysis on Joint Modeling of Emotion and Abuse Detection in Bangla language
 
 Paper presentation:
-https://docs.google.com/presentation/d/1_cqvZxyXAEwIvfKtNhbmA13btWHJ3j9AKQhKAmBrCFQ/edit?usp=sharing
+https://drive.google.com/file/d/1m9Cb1mV_XOvC-cMxKmluH-ofTnHXaE_q/view?usp=sharing
 
 Paper submission date (to workshop/conference):
 
