@@ -13,14 +13,14 @@ https://drive.google.com/file/d/1AvaRFP-CLfSE961RXGnvGM6USWCrbxJ6/view?usp=shari
 Paper presentation:
 https://drive.google.com/file/d/1m9Cb1mV_XOvC-cMxKmluH-ofTnHXaE_q/view?usp=sharing
 
-Paper submission date (to workshop/conference):
+Paper submission date (to workshop/conference): 04-02-2022
 
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID: (received) from conference/workshop : 241
 
 
 Conference URL:
-http://confsite/...
+https://icacds.com/
 
 Group Number:
 23
