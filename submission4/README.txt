@@ -1,7 +1,8 @@
 Unlisted youtube video:
 https://youtu.be/EEHKk8k_vv4
 
-Conference / Paper submission login URL:
+Conference / Paper submission login URL: 
+https://easychair.org/account/signin
 
 
 Paper title:
